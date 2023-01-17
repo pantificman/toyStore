@@ -90,6 +90,9 @@ body{font-family: 'Varela Round', sans-serif;}
     display:flex;
     height: 72px;
 }
+.socialNetw{
+    display: flex;
+}
 .nav_part1{
     padding-left: 135px;
     display: flex;
@@ -105,11 +108,38 @@ body{font-family: 'Varela Round', sans-serif;}
     padding-left: 18px;
     padding-right: 18px;
     font-weight: 400;
-    padding: 18px;
     font-size: 14px;
 }
 .imgBasket{
     height: 24px;
+    width: 20px; 
+}
+.basketNum{
+    border-radius: 50%;
+    background-color:#A5C926;
+    height: 20px;
     width: 20px;
-    
+}
+.mainBlock1{
+    background-color:#FFC12C;
+    width: 570px;
+    height: 188px;
+    border-radius:16px;
+}
+.mainBlock2{
+    background-color:#FB416B;
+    width: 570px;
+    height: 188px;
+    border-radius:16px;
+}
+.btnShop_1{
+background-color:#FFFFFF;
+border-radius:20px;
+}
+.btnShop_2{
+    background-color:#FFFFFF;
+    border-radius:20px;
+    }
+.mainCont{
+    display: flex;
 }
