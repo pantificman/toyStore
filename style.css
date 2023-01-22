@@ -208,8 +208,16 @@ width: 112px;
 
 
 .stuffAnimalList{
-height: 588px;
-background-color: #F8F8F8;
+    height: 588px;
+    background-color: #F8F8F8;
+}
+.container{
+    display: flex;
+}
+.arrowProp{
+   
+    height: 10px;
+    width: 14px;
 }
 .stufAnimTitleList{
     margin-left: 135px;
