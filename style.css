@@ -155,7 +155,9 @@ body{font-family: 'Varela Round', sans-serif; max-width: 1440px;}
     border-radius:16px;
     margin-top: 152px;
     margin-left: 135px;
-    margin-right: 30px;   
+    margin-right: 30px;
+    box-shadow: 0px 0px 5px 0px #FFC12C;
+
 }
 .titleBear{
     color:white;
@@ -174,7 +176,8 @@ body{font-family: 'Varela Round', sans-serif; max-width: 1440px;}
     width: 570px;
     height: 188px;
     border-radius:16px;
-    margin-top: 152px;   
+    margin-top: 152px;
+    box-shadow: 0px 0px 5px 0px #FB416B 
 }
 .btnShop_1{
 background-color:#FFFFFF;
@@ -208,24 +211,52 @@ width: 112px;
 height: 588px;
 background-color: #F8F8F8;
 }
-.teddyBear{
-    font-size: 14px;
+.stufAnimTitleList{
+    margin-left: 135px;
+    font-size: 28px;
     font-weight: 400;
+}
+.lineStuff{
+    height: 2px;
+    width: 1170px;
+    border: 1px solid rgba(229, 229, 229, 1);
+    margin-left: 135px;
+    margin-top: 32px;
+}
+.cardsStuffAnimals{
+    display: flex;
+}
+#teddyBearId{
+    margin-left: 135px;}
+.teddyBear{
     width: 270px;
     height: 328px;
     background-color: #FFFFFF;
     border-radius: 16px;
-    margin-left: 135px;
+    margin-left: 30px;
     margin-top: 55px;
+    box-shadow: 0px 0px 10px 0px rgb(218, 215, 215);
+    
+}
+.teddyBearImg{
+margin-left: 44px;
+padding-top: 33px;
+
 }
 .teddyBearTitle{
     text-align: center;
+    padding-top: 25px;
+    font-size: 14px;
+    font-weight: 400;
 }
 .TeddyBearBtn{
     background-color:#A5C926;
     border-radius:20px;
     height: 24px;
     width: 92px;
+    margin-top: 14px;
     margin-left: 89px;
-    margin-top: 272px;
+    color:white;
+    border: white;
+    
 }
