@@ -214,8 +214,15 @@ width: 112px;
 .container{
     display: flex;
 }
+
+.seeAllToysProp{
+    font-size: 13px;
+    font-weight: 400;
+    margin-left: 860px
+}
 .arrowProp{
-   
+    margin-left: 6px;
+    margin-top:5px;
     height: 10px;
     width: 14px;
 }
