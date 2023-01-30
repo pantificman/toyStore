@@ -273,5 +273,26 @@ padding-top: 33px;
     margin-left: 89px;
     color:white;
     border: white;
-    
+}
+.aboutClass{
+text-align: center;
+color:rgba(255, 255, 255, 1);
+font-size: 13px;
+margin-top: -350px;
+}
+.ourStoryClass{
+text-align: center;
+color:rgba(255, 255, 255, 1);
+font-size: 36px;
+margin-top: 17px;
+}
+.textOurStory{
+    text-align: center;
+color:rgba(255, 255, 255, 1);
+font-size: 14px;
+font-weight: 400;
+margin-top: 17px;
+width: 718px;
+margin-left: 361px;
+line-height: 24px;
 }
