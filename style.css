@@ -296,3 +296,8 @@ width: 718px;
 margin-left: 361px;
 line-height: 24px;
 }
+.btnPlayVideo{
+    height: 164px;
+    width: 164px;
+    background-color: rgba(165, 201, 38, 1);
+}
